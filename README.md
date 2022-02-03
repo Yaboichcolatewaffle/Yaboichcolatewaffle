@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaboichcolatewaffle&theme=radical)
+
+## 📫 Connect:
+![discord.com/app](https://discord.c99.nl/widget/theme-4/782128271876816906.png)
