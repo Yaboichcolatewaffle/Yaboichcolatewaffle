@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Yaboichcolatewaffle
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning css and js
-- 💞️ I’m Working on a new Discord bot if you are intrested in helping me dm me on discord Yaboichocolatewaffle#3969 
+- 💞️ I’m Working on a new Discord bot if you are intrested in helping me dm me on discord yaboichcolatewaffle 
 - 📫 you can talk to me on discord https://discord.gg/6a7H9w4eEb < - - my server
-- ✨ Fun fact im a kid
 
 <!---
 Yaboichcolatewaffle/Yaboichcolatewaffle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
